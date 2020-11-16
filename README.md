@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-  🤖 I'm Gabriel Mello. I'm a self Learn fronted developer that loves to solve puzzels.
+  🤖 I'm Gabriel Mello. I'm a self-taught fronted developer that loves to solve puzzels.
 My love for logic started when I was a child, playing videogames 👾, trying to solve riddles and playing with toys like Rubik's Cube, what led me to choose an Engineering university 🔧.
 
   🎓 I passed the entrance exam of four universities: UFRJ, UERJ, PUC and UFF, and choose the UFRJ Mechanical Engineering course, in with I passed in fifth place. 👨‍💻During university I've learned the basics of programming logic in Pascal, and had fun with it.
