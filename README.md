@@ -14,4 +14,4 @@ Soo... I'v got naturally involved and started learning HTML, Javascript, CSS and
 ⚡ Fun fact: Despite looking like 100% nerd 🤓, I've been called Social Nerd by some friends. That's because I love other things, like dancing 😋.
 
 
-I'm looing for my first experience in jobs involvinng Web Development 💼
+I'm looking for my first experience in jobs involvinng Web Development 💼
